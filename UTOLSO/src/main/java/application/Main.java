@@ -1,7 +1,10 @@
+//
+// Source code recreated from a .class file by IntelliJ IDEA
+// (powered by FernFlower decompiler)
+//
 
 package application;
 
-import java.lang.reflect.InvocationTargetException;
 import java.net.URL;
 import java.util.Objects;
 import javafx.application.Application;
@@ -15,7 +18,7 @@ public class Main extends Application {
     }
 
     public void start(Stage stage) throws Exception {
-        Parent parent = (Parent)FXMLLoader.load((URL)Objects.requireNonNull(this.getClass().getResource("/view/MainPane.fxml")));
+        Parent parent = FXMLLoader.load(Objects.requireNonNull(this.getClass().getResource("/view/MainPane.fxml")));
         Scene scene = new Scene(parent);
         stage.setScene(scene);
         stage.setTitle("Varosok");
