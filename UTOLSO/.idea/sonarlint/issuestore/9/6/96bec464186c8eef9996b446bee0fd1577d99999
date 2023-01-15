@@ -1,0 +1,86 @@
+
+R
+java:S3740Ê"/Provide the parametrized type for this generic.(•§§÷şÿÿÿÿ8ì…´´Û0
+M
+java:S3740Ë"/Provide the parametrized type for this generic.(˜¿¥Î8í…´´Û0
+M
+java:S3740Ì"/Provide the parametrized type for this generic.(É€Á¬8í…´´Û0
+R
+java:S3740Í"/Provide the parametrized type for this generic.(ñİÙ‡şÿÿÿÿ8í…´´Û0
+R
+java:S3740Î"/Provide the parametrized type for this generic.(¡ú†óÿÿÿÿÿ8í…´´Û0
+M
+java:S3740Ô"/Provide the parametrized type for this generic.(ªˆÔŠ8î…´´Û0
+R
+java:S3740Õ"/Provide the parametrized type for this generic.(ªöÚøÿÿÿÿ8î…´´Û0
+M
+java:S3740â"/Provide the parametrized type for this generic.(¾€ãµ8î…´´Û0
+M
+java:S3740ã"/Provide the parametrized type for this generic.(«Ÿ˜ˆ8î…´´Û0
+M
+java:S3740ä"/Provide the parametrized type for this generic.(”Â­8î…´´Û0
+R
+java:S3740å"/Provide the parametrized type for this generic.(Öé¤«ûÿÿÿÿ8ï…´´Û0
+s	java:S117³"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿçÜ…üÿÿÿÿ8ò…´´Û0
+
+java:S1488„"\Immediately return this expression instead of assigning it to the temporary variable "conn".(Ü™úÿÿÿÿÿ8ó…´´Û0
+e
+java:S2095ö"GUse try-with-resources or close this "Statement" in a "finally" clause.(˜ğ×8â†´´Û0
+j
+java:S2095’"GUse try-with-resources or close this "Statement" in a "finally" clause.(‰ğ—Çıÿÿÿÿ8á†´´Û0
+j
+java:S2095º"GUse try-with-resources or close this "Statement" in a "finally" clause.(‰ğ—Çıÿÿÿÿ8â†´´Û0
+j
+java:S2095¦"GUse try-with-resources or close this "Statement" in a "finally" clause.(‰ğ—Çıÿÿÿÿ8â†´´Û0
+t	java:S116("SRename this field "Gridpane" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Š—°ùÿÿÿÿ8ä†´´Û0
+u	java:S116P"TRename this field "TableView" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÌı˜ùÿÿÿÿ8ä†´´Û0
+u	java:S116\"YRename this field "TableViewMegye" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÉ½ø8å†´´Û0
+y	java:S116b"]Rename this field "TableViewLelekszam" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§¿íä8å†´´Û0
+p	java:S116q"TRename this field "Rest1read" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚‡ªì8å†´´Û0
+¤
+java:S1186‰"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(åÅ†áùÿÿÿÿ8æ†´´Û0
+‚
+java:S1149Ÿ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(âĞÏùÿÿÿÿ8ê†´´Û0
+k	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æŒ8ñ†´´Û0
+\
+java:S1854Ğ"9Remove this useless assignment to local variable "query".(Ôä»‹ÿÿÿÿÿ8š‡´´Û0
+M
+java:S1481Ğ"*Remove this unused "query" local variable.(Ôä»‹ÿÿÿÿÿ8›‡´´Û0
+W
+java:S1854Ü"9Remove this useless assignment to local variable "query".(ìÓİù8‡´´Û0
+H
+java:S1481Ü"*Remove this unused "query" local variable.(ìÓİù8Ÿ‡´´Û0
+W
+java:S1854è"9Remove this useless assignment to local variable "query".(É‡µ©8¡‡´´Û0
+H
+java:S1481è"*Remove this unused "query" local variable.(É‡µ©8£‡´´Û0
+L
+java:S2115„")Add password protection to this database.(Ü™úÿÿÿÿÿ8ª‡´´Û0
+]
+java:S1117"?Rename "connection" which hides the field declared at line 134.(¤¹“Ì8­‡´´Û0
+]
+java:S1117¢"?Rename "connection" which hides the field declared at line 134.(¤¹“Ì8¶‡´´Û0
+]
+java:S1117¶"?Rename "connection" which hides the field declared at line 134.(¤¹“Ì8¼‡´´Û0
+Š
+java:S1130ğ"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ñÄÅ8Ì‡´´Û0
+k	java:S100ü"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸»´ù8Ï‡´´Û0
+V	java:S106ı"9Replace this use of System.out or System.err by a logger.(ñäé8Ğ‡´´Û0
+\
+java:S4719”"9Replace charset name argument with StandardCharsets.UTF_8(öËùÆúÿÿÿÿ8×‡´´Û0
+[	java:S106œ"9Replace this use of System.out or System.err by a logger.(ôÂİıÿÿÿÿ8Û‡´´Û0
+C
+java:S2129§" Remove this "String" constructor(è¾ì¶ùÿÿÿÿ8á‡´´Û0
+U	java:S106ª"9Replace this use of System.out or System.err by a logger.(ÊË-8ã‡´´Û0
+>
+java:S2129«" Remove this "String" constructor(ï®8ã‡´´Û0
+V	java:S106²"9Replace this use of System.out or System.err by a logger.(Á–ÑÃ8å‡´´Û0
+T
+java:S2696¶"6Make the enclosing method "static" or remove this set.(Îß’¿8ç‡´´Û0
+V	java:S106½"9Replace this use of System.out or System.err by a logger.(ê„×£8ë‡´´Û0
+T
+java:S2696Ã"6Make the enclosing method "static" or remove this set.(Îß’¿8î‡´´Û0
+R
+java:S1068„"4Remove this unused "putResponseValue" private field.(‡–×÷8ñ‡´´Û0
+U
+java:S1068…"7Remove this unused "deleteResponseValue" private field.(¾ÔÉ×8ñ‡´´Û0

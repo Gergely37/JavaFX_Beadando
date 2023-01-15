@@ -1,8 +1,3 @@
-//
-// Source code recreated from a .class file by IntelliJ IDEA
-// (powered by FernFlower decompiler)
-//
-
 package controller;
 
 import java.io.BufferedReader;
@@ -253,7 +248,6 @@ public class MainController implements Initializable {
         } catch (Exception var5) {
             var5.printStackTrace();
         }
-
     }
 
     public void initialize(URL location, ResourceBundle resources) {
@@ -357,7 +351,7 @@ public class MainController implements Initializable {
 
     public void showLelekszam() {
         ObservableList<Lelekszam> listlelekszam = this.getBooksLelekszamList();
-        this.varosidColumn.setCellValueFactory(new PropertyValueFactory("id"));
+        this.varosidColumn.setCellValueFactory(new PropertyValueFactory("varosid"));
         this.evColumn.setCellValueFactory(new PropertyValueFactory("ev"));
         this.noColumn.setCellValueFactory(new PropertyValueFactory("no"));
         this.osszesenColumn.setCellValueFactory(new PropertyValueFactory("osszesen"));
@@ -396,7 +390,6 @@ public class MainController implements Initializable {
         if (id != null) {
             connection.setRequestProperty("Authorization", "Bearer " + token);
         }
-
         request3(200);
     }
 

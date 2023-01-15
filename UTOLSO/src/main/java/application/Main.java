@@ -5,7 +5,6 @@
 
 package application;
 
-import java.net.URL;
 import java.util.Objects;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
@@ -16,7 +15,6 @@ import javafx.stage.Stage;
 public class Main extends Application {
     public Main() {
     }
-
     public void start(Stage stage) throws Exception {
         Parent parent = FXMLLoader.load(Objects.requireNonNull(this.getClass().getResource("/view/MainPane.fxml")));
         Scene scene = new Scene(parent);

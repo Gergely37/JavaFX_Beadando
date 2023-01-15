@@ -8,5 +8,6 @@ module com.example.utolso {
     opens application to javafx.fxml;
     exports application;
     exports controller;
+    exports library;
     opens controller to javafx.fxml;
 }
