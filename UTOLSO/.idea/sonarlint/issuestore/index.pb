@@ -9,7 +9,3 @@ N
 src/main/java/module-info.java,1\c\1c89a5491fbfda3fb050196d6a239f20200296e7
 P
  src/main/java/library/Varos.java,a\c\acf314c2d417c89ffb8a47b29cc3f6fe01b7cb85
-\
-,src/main/java/controller/MainController.java,9\6\96bec464186c8eef9996b446bee0fd1577d99999
-S
-#src/main/java/application/Main.java,5\6\5688ea0c4a98f9f292a9a6d1f18b03db74a806d0
